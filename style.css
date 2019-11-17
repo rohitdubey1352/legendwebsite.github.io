@@ -1,0 +1,11 @@
+*{
+    		padding: 0px;
+    		margin: 0px;
+    		font-family: 'Josefin Sans',Sans-serif;
+    	}
+
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%; 
+       }
